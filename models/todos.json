@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Groceries",
+        "description": "Need to get groceries today",
+        "timestamp": "2012-04-21T18:25:43-05:00"
+    },
+    {
+        "id": 2,
+        "title": "Movies",
+        "description": "Need to watch a movie today",
+        "timestamp": "2012-04-21T18:25:43-05:00"
+    },
+    {
+        "id": 3,
+        "title": "Dinner",
+        "description": "Need to get Dinner",
+        "timestamp": "2012-04-21T18:25:43-05:00"
+    }
+]
